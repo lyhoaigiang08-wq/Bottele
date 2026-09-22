@@ -1,7 +1,6 @@
 {
-  "name": "lc79-telegram-bot",
-  "version": "2.0.0",
-  "description": "Bot Telegram Soi Cầu Tài Xỉu LC79 MD5 Realtime",
+  "name": "bottele",
+  "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
